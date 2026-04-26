@@ -99,17 +99,6 @@ I’m a security enthusiast focused on **building and documenting practical lab 
 
 -----
 
-## `> cat ctf-achievements.log`
-
-```
-[2024-??-??] Platform: TryHackMe     | Rooms Completed: ##  | Path: Jr Penetration Tester
-[2024-??-??] Platform: HackTheBox    | Machines Pwned: ##   | Rank: ######
-[2024-??-??] Platform: PicoCTF       | Points: ####         | Category Focus: Binary/Web
-[2024-??-??] Competition: ########   | Placement: ##/###    | Category: ######
-```
-
-> 📝 *Replace `#` placeholders with your actual stats — they’re worth showing off!*
-
 ### Writeup Categories
 
 - 🌐 **Web Exploitation** — SQLi, XSS, IDOR, SSRF
