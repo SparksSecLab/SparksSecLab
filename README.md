@@ -100,7 +100,7 @@ I’m a security enthusiast focused on **building and documenting practical lab 
 -----
 ### HTB & THM achievements 
 
-[![HTB](https://www.hackthebox.eu/badge/image/swank2323)](https://app.hackthebox.com/profile/Swank2323)
+[![HTB](https://www.hackthebox.com/badge/image/swank2323)](https://app.hackthebox.com/profile/swank2323)
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Swank.png)](https://tryhackme.com/p/Swank)
 
