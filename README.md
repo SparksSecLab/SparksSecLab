@@ -98,6 +98,12 @@ I’m a security enthusiast focused on **building and documenting practical lab 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 -----
+### HTB & THM achievements 
+
+[![HTB](https://www.hackthebox.eu/badge/image/swank2323)](https://app.hackthebox.com/profile/Swank2323)
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Swank.png)](https://tryhackme.com/p/Swank)
+
 
 ### Writeup Categories
 
