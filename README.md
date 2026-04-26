@@ -137,11 +137,9 @@ I’m a security enthusiast focused on **building and documenting practical lab 
 ```json
 {
   "github":   "https://github.com/SparksSecLab",
-  "linkedin": "https://linkedin.com/in/YOUR_HANDLE",
-  "email":    "your@email.com",
-  "tryhackme":"https://tryhackme.com/p/YOUR_HANDLE",
-  "hackthebox":"https://app.hackthebox.com/users/YOUR_ID",
-  "blog":     "https://your-blog-or-portfolio.com"
+  "linkedin": "https://linkedin.com/in/edward-sparks-7a96233b8",
+  "tryhackme":"https://tryhackme.com/p/Swank",
+  "hackthebox":"https://app.hackthebox.com/users/Swank2323",
 }
 ```
 
